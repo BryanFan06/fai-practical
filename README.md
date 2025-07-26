@@ -6,7 +6,7 @@
 
 ### Setup (One-time)
 ```bash
-git config --global user.name "Your kkk"
+git config --global user.name "Your aaa"
 git config --global user.email "your.email@example.com"
 ```
 
